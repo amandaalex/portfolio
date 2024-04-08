@@ -5,8 +5,31 @@ Using Gemini API's to provide intelligent responses to complex questions. Featur
 
 [Github](https://github.com/amandaalex/google-gemini-voice-chatbot)
 
-### RAG application
-Showcase of a Retrieval-Augmented Generation (RAG) application built using Python, OpenAI API, and LangChain.
+### Retrieval-Augmented Generation (RAG) application
+Implementing a Retrieval-Augmented Generation (RAG) System built using Python, OpenAI API, and LangChain.
+
+This project provides an outline of the key steps involved in building a RAG system powered by OpenAI's API and orchestrated by LangChain. RAG enhances conversational AI by combining document retrieval and generative language modeling.
+
+Prerequisites
+* Python environment
+* LangChain, OpenAI, and relevant libraries installed (pip install langchain openai)
+* A valid OpenAI API key
+
+Process
+1. Data Preparation: Structure your knowledge base (e.g., ScaleX Innovation information) for optimal retrieval. Consider formats like text files, CSV, or a database.
+2. Vectorization: Use OpenAI's embedding models to convert textual data into vector representations, enabling efficient similarity search.
+3. Retrieval Component: Choose a vector database (e.g., Faiss, Pinecone) to store and search the embeddings.
+4. LangChain Integration:
+    * Create a chain for the retrieval process, querying your vector database.
+    * Construct a chain for generating text (using OpenAI's text generation models).
+    * Combine the chains, feeding retrieved context into the text generation chain.
+5. Conversation Flow: Design the logic for how your chatbot interacts with users, incorporating the RAG system for informed responses.
+
+Key Points
+* RAG augments standard chatbots with the ability to reference external knowledge sources.
+* The quality of your data preparation directly impacts retrieval effectiveness.
+* LangChain streamlines the integration of retrieval and generation components.
+
 
 [Github](https://github.com/amandaalex/rag-openai)
 
