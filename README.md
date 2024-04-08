@@ -1,8 +1,8 @@
 # AI portfolio
 
-### [Voice Assistant Utilizing Google Gemini](https://github.com/amandaalex/portfolio/tree/main#voice-assistant-utilizing-google-gemini)
-### [Retrieval-Augmented Generation (RAG) application](https://github.com/amandaalex/portfolio/tree/main#retrieval-augmented-generation-rag-application)
-### [Backtest experiment using chatbots](https://github.com/amandaalex/portfolio/tree/main#backtest-experiment-using-chatbots)
+### [Voice Assistant Utilizing Google Gemini](#voice-assistant-utilizing-google-gemini)
+### [Retrieval-Augmented Generation (RAG) application](#retrieval-augmented-generation-rag-application)
+### [Backtest experiment using chatbots](#backtest-experiment-using-chatbots)
 
 ***
 
