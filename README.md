@@ -11,6 +11,8 @@ Showcase of a Retrieval-Augmented Generation (RAG) application built using Pytho
 [Github](https://github.com/amandaalex/rag-openai)
 
 ### Backtest experiment using chatbots 
-Using chatbots to execute backtests of simple trading strategies.
+Using chatbots to execute backtests of simple trading strategies. Backtest trading strategies in minutes using Gemini AI.
+
+Generate python code to import the necessary libraries for backtesting a trading strategy, focusing on data handling from Yahoo Finance and visualization.
 
 [Github](https://github.com/amandaalex/backtest-chatbots)
