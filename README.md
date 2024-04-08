@@ -29,9 +29,9 @@ Key Points
 * RAG augments standard chatbots with the ability to reference external knowledge sources.
 * The quality of your data preparation directly impacts retrieval effectiveness.
 * LangChain streamlines the integration of retrieval and generation components.
-
-
+* 
 [Github](https://github.com/amandaalex/rag-openai)
+
 
 ### Backtest experiment using chatbots 
 Using chatbots to execute backtests of simple trading strategies. Backtest trading strategies in minutes using Gemini AI.
@@ -39,3 +39,5 @@ Using chatbots to execute backtests of simple trading strategies. Backtest tradi
 Generate python code to import the necessary libraries for backtesting a trading strategy, focusing on data handling from Yahoo Finance and visualization.
 
 [Github](https://github.com/amandaalex/backtest-chatbots)
+
+![Screenshot](https://lh3.googleusercontent.com/pw/AP1GczNR_9JVFBC3FGI6nknafk2T-DIPA34q-4eR98_eOqbUEYUF3UkeoxxCYTqUmUacO16NMOmC7vtG3aGXNBVwVCHReHr0pdcCgxTkaIBxSW4z2157bJ86Oerfvl9_O1Os8GWckfrPbuCU6ovLRvvIx8rK=w948-h593-s-no-gm?authuser=0)
