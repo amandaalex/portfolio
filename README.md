@@ -65,3 +65,5 @@ Snapchat's dynamic filters demonstrate the power of real-time facial landmark de
 
 [Github](https://github.com/amandaalex/face-landmarks)
 
+![Picture](https://raw.githubusercontent.com/amandaalex/face-landmarks/main/images/pic.jpeg)
+
