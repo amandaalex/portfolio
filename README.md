@@ -1,8 +1,8 @@
 # AI portfolio
 
-### [Voice Assistant Utilizing Google Gemini](#voice-assistant-utilizing-google-gemini)
-### [Retrieval-Augmented Generation (RAG) application](#retrieval-augmented-generation-rag-application)
-### [Backtest experiment using chatbots](#backtest-experiment-using-chatbots)
+### [Voice Assistant Utilizing Google Gemini](#voice-assistant-utilizing-google-gemini-1)
+### [Retrieval-Augmented Generation (RAG) application](#retrieval-augmented-generation-rag-application-1)
+### [Backtest experiment using chatbots](#backtest-experiment-using-chatbots-1)
 
 ***
 
