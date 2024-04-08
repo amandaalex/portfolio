@@ -12,3 +12,5 @@ Showcase of a Retrieval-Augmented Generation (RAG) application built using Pytho
 
 ### Backtest experiment using chatbots 
 Using chatbots to execute backtests of simple trading strategies.
+
+[Github](https://github.com/amandaalex/backtest-chatbots)
