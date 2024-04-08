@@ -1,6 +1,6 @@
 # AI portfolio
 
-### Gemini voice chatbot
+### Voice Assistant Utilizing Google Gemini
 Using Gemini API's to provide intelligent responses to complex questions. Featuring real-time interaction, responsive design, and support for Gemini Pro and Gemini Vision models.
 
 [Github](https://github.com/amandaalex/google-gemini-voice-chatbot)
