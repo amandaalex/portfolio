@@ -3,6 +3,7 @@
 ### [Voice Assistant Utilizing Google Gemini](#voice-assistant-utilizing-google-gemini-1)
 ### [Retrieval-Augmented Generation (RAG) application](#retrieval-augmented-generation-rag-application-1)
 ### [Backtest experiment using chatbots](#backtest-experiment-using-chatbots-1)
+### [Facial Landmark Detection for Augmented Reality Experiences](#facial-landmark-detection-for-augmented-reality-experiences-1)
 
 ***
 
@@ -47,3 +48,20 @@ Generate python code to import the necessary libraries for backtesting a trading
 [Github](https://github.com/amandaalex/backtest-chatbots)
 
 ![Screenshot](https://lh3.googleusercontent.com/pw/AP1GczNR_9JVFBC3FGI6nknafk2T-DIPA34q-4eR98_eOqbUEYUF3UkeoxxCYTqUmUacO16NMOmC7vtG3aGXNBVwVCHReHr0pdcCgxTkaIBxSW4z2157bJ86Oerfvl9_O1Os8GWckfrPbuCU6ovLRvvIx8rK=w948-h593-s-no-gm?authuser=0)
+
+
+# Facial Landmark Detection for Augmented Reality Experiences
+Snapchat's dynamic filters demonstrate the power of real-time facial landmark detection in augmented reality (AR). To achieve similar effects, precise identification of key facial features is essential. In this project, I'll explore the machine learning techniques behind facial landmark detection and provide guidance for implementation.
+
+#### Key Concepts and Techniques
+* `Facial Landmarks`: These are anatomically significant points on the face (e.g., corners of the eyes, tip of the nose, etc.).
+* `Machine Learning Models`: Computer vision models, often convolutional neural networks (CNNs), are trained to locate these landmarks within images or video frames.
+* `Libraries and Tools`: Popular choices include OpenCV, Dlib, and MediaPipe for model development and real-time inference.
+
+#### Process
+1. `Data Preparation`: Sourcing or creating a dataset of images with labeled facial landmarks.
+2. `Model Selection and Training`: Choosing an appropriate pre-trained model or training a custom CNN.
+3. `Landmark Detection`: Applying the model to new images or videos.
+
+[Github](https://github.com/amandaalex/face-landmarks)
+
